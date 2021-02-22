@@ -1,4 +1,4 @@
-﻿msgbox "msgbox: Hello World"
-print "print: Hello World"
+﻿msgbox "msgbox: Good Bye World"
+print "print: Good Bye World"
 
 
